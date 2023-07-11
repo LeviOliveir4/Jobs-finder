@@ -1,0 +1,11 @@
+Projeto node, express e sequelize;
+
+
+O Sequelize é um ORM, ou seja, um mapeador objeto-relacional. Isso significa que ele permite que você crie modelos (classes) em TypeScript ou JavaScript que representam as tabelas do seu banco de dados. Assim, você pode manipular os dados usando objetos e métodos, sem precisar escrever SQL diretamente.
+
+
+
+O Express é um framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel.
+
+
+SQLite é uma biblioteca em linguagem C que implementa uma base de dados SQL embutida. Programas que usem a biblioteca SQLite podem ter acesso a banco de dados SQL sem executar um processo SGBD separado.
